@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center"> Simple portfolio</h1>
 
 
@@ -17,3 +15,7 @@
 
 
 My simple portfolio page created with HTML and CSS.
+
+
+Illustrations by  <a href="https://storyset.com/"> Storyset </a>
+Shape divider by  <a href="https://www.shapedivider.app/"> Shapedivider.app </a>
